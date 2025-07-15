@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yiğit 👋</h1>
+<p align="center">
+  My name is Yiğit. I am located in Ankara/Turkey 
+</p>
 
-<!--
-**yigitcil2/yigitcil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
+I'm a Computer Engineering graduate focused on building robust and secure web applications using **ASP.NET Core** and **C#**.  
+I enjoy designing clean backend architectures, working with **Entity Framework**, and optimizing performance with **SQL Server**.  
+Currently improving my frontend skills and exploring DevOps practices to become a well-rounded developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- 💻 **Backend**: ASP.NET Core, C#, Entity Framework, RESTful APIs  
+- 🌐 **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- 🗃️ **Databases**: SQL Server, MongoDB  
+- ⚙️ **Tools & DevOps**: Git, GitHub, Docker (learning) 
+- 💻 **Operating Systems**: Linux & Windows  
+
+---
+
+### 🚧 Currently Working On
+- A Appointment Management System with **ASP.NET Core**
+- E-Commerce site with  **ASP.NET Core**
+- AI Agent with n8n
+
+---
+
+### 🌱 I'm Learning
+- ASP.NET { Middleware, Pipelines, JWT, Micro Services, ORM, Design Patterns,
+SOLID Principles, Azure...}
+- AI Agent Building
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fit-%C3%A7ilesiz-444688230/)    
+- Email: yigit.cilesiz@tedu.edu.tr  
+
+---
+
+
+
