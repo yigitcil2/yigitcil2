@@ -23,9 +23,9 @@ Currently improving my frontend skills and exploring DevOps practices to become 
 ---
 
 ### 🚧 Currently Working On
-- A Appointment Management System with **ASP.NET Core**
-- E-Commerce site with  **ASP.NET Core**
-- AI Agent with n8n
+- Data analysis with building a model that can provide a price estimate based on a home's characteristics in Boston
+- E-Commerce API with  **ASP.NET Core**
+- React.js
 
 ---
 
