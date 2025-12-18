@@ -26,13 +26,14 @@ Currently improving my frontend skills and exploring DevOps practices to become 
 - Data analysis with building a model that can provide a price estimate based on a home's characteristics in Boston
 - E-Commerce API with  **ASP.NET Core**
 - React.js
+- Portfolio site
 
 ---
 
 ### 🌱 I'm Learning
 - ASP.NET { Middleware, Pipelines, JWT, Micro Services, ORM, Design Patterns,
 SOLID Principles, Azure...}
-- AI Agent Building
+- React.js
 
 ---
 
