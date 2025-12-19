@@ -14,9 +14,9 @@ Currently improving my frontend skills and exploring DevOps practices to become 
 
 ### 🛠️ Tech Stack
 
-- 💻 **Backend**: ASP.NET Core, C#, Entity Framework, RESTful APIs  
-- 🌐 **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- 🗃️ **Databases**: SQL Server, MongoDB  
+- 💻 **Backend**: C# ASP.NET, Node.js Express  
+- 🌐 **Frontend**: HTML, CSS, JavaScript   
+- 🗃️ **Databases**: SQL Server, PostgreSQL  
 - ⚙️ **Tools & DevOps**: Git, GitHub, Docker (learning) 
 - 💻 **Operating Systems**: Linux & Windows  
 
