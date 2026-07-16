@@ -23,10 +23,7 @@ Currently improving my frontend skills and exploring DevOps practices to become 
 ---
 
 ### 🚧 Currently Working On
-- Data analysis with building a model that can provide a price estimate based on a home's characteristics in Boston
-- E-Commerce API with  **ASP.NET Core**
-- React.js
-- Portfolio site
+- Secure Asset and Operation Management System
 
 ---
 
