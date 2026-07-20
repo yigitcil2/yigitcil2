@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yi%C4%9Fit-%C3%A7ilesiz-444688230/">LinkedIn</a>
   ·
-  <a href="mailto:yigit.cilesiz@tedu.edu.tr">Email</a>
+  <a href="mailto:ycilesiz12@gmail.com">Email</a>
 </p>
 
 ---
