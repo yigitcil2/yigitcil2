@@ -1,7 +1,7 @@
 <h1 align="center">Yiğit Çilesiz</h1>
 
 <p align="center">
-  Computer Engineering Graduate · Backend Developer · Ankara, Türkiye
+  Computer Engineering Graduate · Full-Stack Developer · Ankara, Türkiye
 </p>
 
 <p align="center">
